@@ -30,3 +30,15 @@ arr.forEach(button => {
          }
     })
 })
+// Disable screen rotation
+function disableScreenRotation() {
+  if (window.screen.orientation.lock) {
+    window.screen.orientation.lock('portrait');
+  } else if (window.screen.lockOrientation) {
+    window.screen.lockOrientation('portrait');
+  }
+}
+
+// Call the function to disable screen rotation
+disableScreenRotation();
+    
