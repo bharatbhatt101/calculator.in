@@ -19,16 +19,7 @@ body
     border-radius: 20px;
 }
 
-.amain {
-    border: 2px solid white;
-    height:50%;
-    width:50%;
-    background-color: rgb(45, 45, 45);
-    border-radius: 20px;
-    display:flex;
-    flex-wrap:wrap;    
 
-}
 
 .text {
 

@@ -32,5 +32,3 @@ arr.forEach(button => {
 })
 
 
-    
->>>>>>> 12d57bf168bf9c81b5f56bcfcb116223c23fa733
