@@ -41,7 +41,7 @@ body
     text-align: right;
     width:100%;
     font-size: 30px;
-    background-color:transparent;
+    background-color: transparent;
     height: 100px;
     color: white;
     border-radius: 20px;
@@ -50,6 +50,7 @@ body
     
 
 }
+
 #cal
 {
       border-radius:50%;
@@ -59,6 +60,9 @@ body
       height:50px;
       margin:10px;
 }
+
+
+
 .green
 {
     background-color: rgb(45, 45, 45);
@@ -137,19 +141,20 @@ body
 .smain {
     border: 2px solid gray;
     width:80%;
-    height:80%;
     background-color: rgb(45, 45, 45);
     border-radius: 20px;
 }
+
  .text input {
     text-align: right;
     width:100%;
     font-size: 30px;
-    background-color:transparent;
+    background-color: transparent;
     height: 100px;
     color: white;
     border-radius: 20px;
     padding-top:30px;
+/* 
     
 
 }
@@ -215,4 +220,5 @@ body
     }
     */
 
+}
 }
