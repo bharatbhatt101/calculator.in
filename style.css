@@ -14,12 +14,15 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color:rgb(20, 19, 19);
 }
 
 .smain {
     border: .2rem solid gray;
     width: 28rem;
+
+
     background-color: rgb(45, 45, 45);
     border-radius: 2rem;
 }
@@ -123,6 +126,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color:rgb(20, 19, 19);
 }
 
@@ -149,6 +153,14 @@ body
     html
     {
         font-size:40%;
+    }
+    
+    body
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
     }
     .green
     {
